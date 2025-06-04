@@ -95,6 +95,11 @@ Key research underscores mental health urgency:
 
 ## References
 
-- **[Placeholder: List of foundational papers, research articles, and datasets used for validation]**
-
+- [First Therapy Chatbot Trial Yields Mental Health Benefits. (2025). Dartmouth News.](https://home.dartmouth.edu/news/2025/03/first-therapy-chatbot-trial-yields-mental-health-benefits)
+- [Artificial Intelligence-Enabled Chatbots in Mental Health: A Systematic Review. (2023). ResearchGate.](https://www.researchgate.net/publication/366774382_Artificial_Intelligence-Enabled_Chatbots_in_Mental_Health_A_Systematic_Review)
+- [AI-based Decision Support System for Predicting Mental Health Disorders. (2022). Information Systems Frontiers.](https://link.springer.com/article/10.1007/s10796-022-10282-5)
+- [An Improved Biometric Stress Monitoring Solution for Working Professionals. (2023). PMC.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11651562/)
+- [Innovative Research Links Biometric Data to Mood Prediction in Shift Workers. (2025). News-Medical.](https://www.news-medical.net/news/20250122/Innovative-research-links-biometric-data-to-mood-prediction-in-shift-workers.aspx)
+- [A Systematic Review of Location Data for Depression Prediction. (2023). ResearchGate.](https://www.researchgate.net/publication/371142735_A_Systematic_Review_of_Location_Data_for_Depression_Prediction)
+- [Geographic Disparities in the Availability of Mental Health Services. (2023). PMC.](https://pmc.ncbi.nlm.nih.gov/articles/PMC9772127/)
 ---
