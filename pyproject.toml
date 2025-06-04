@@ -1,0 +1,20 @@
+[project]
+name = "mental-health-proposal"
+version = "0.1.0"
+description = "Data science scaffolding for mental health decision support"
+authors = [
+    {name = "Alan Szmyt",email = "alan@example.com"}
+]
+readme = "README.md"
+requires-python = "^3.12"
+dependencies = [
+    "pandas",
+    "scikit-learn",
+    "matplotlib",
+    "seaborn"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
