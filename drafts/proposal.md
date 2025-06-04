@@ -93,9 +93,10 @@ Key research underscores mental health urgency:
 
 ---
 
-## References
+- [First Therapy Chatbot Trial Yields Mental Health Benefits. (2025). Dartmouth News.](https://home.dartmouth.edu/news/2025/03/first-therapy-chatbot-trial-yields-mental-health-benefits)  
+  **Summary:** The study conducted by researchers at Dartmouth found that a generative AI-powered therapy chatbot called Therabot resulted in significant improvements in participants' symptoms of depression, anxiety, and eating disorders. After eight weeks of using Therabot, participants experienced a marked reduction in symptoms that exceeded what clinicians consider statistically significant. Participants also reported a degree of "therapeutic alliance" with Therabot comparable to working with a mental health professional. The study suggests that generative AI has the potential to increase patient engagement and provide real-time support for people who lack regular or immediate access to a mental health professional. However, the researchers emphasize the need for rigorous oversight and involvement of mental health experts in the development and clinical testing of these systems to ensure safety and efficacy.
 
-- [First Therapy Chatbot Trial Yields Mental Health Benefits. (2025). Dartmouth News.](https://home.dartmouth.edu/news/2025/03/first-therapy-chatbot-trial-yields-mental-health-benefits)
+
 - [Artificial Intelligence-Enabled Chatbots in Mental Health: A Systematic Review. (2023). ResearchGate.](https://www.researchgate.net/publication/366774382_Artificial_Intelligence-Enabled_Chatbots_in_Mental_Health_A_Systematic_Review)
 - [AI-based Decision Support System for Predicting Mental Health Disorders. (2022). Information Systems Frontiers.](https://link.springer.com/article/10.1007/s10796-022-10282-5)
 - [An Improved Biometric Stress Monitoring Solution for Working Professionals. (2023). PMC.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11651562/)
