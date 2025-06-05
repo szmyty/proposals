@@ -1,0 +1,9 @@
+[allowlist]
+description = "Allowed patterns"
+files = []
+regexes = []
+
+[[rules]]
+id = "generic-api-key"
+regex = '(?i)(api_key|apikey|secret_key|secret|password)["\']?\s*[:=]\s*["\']?([a-z0-9]{32,})["\']?'
+secretGroup = 2
