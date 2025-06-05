@@ -43,6 +43,15 @@ This will create `data/processed/merged.csv`, which can be used for
 visualization and further exploration. Replace the sample files in `data/raw/`
 with the actual datasets once they have been downloaded.
 
+To generate example visualizations and a PDF report run:
+
+```bash
+python scripts/generate_report.py
+```
+
+The script will produce images in `reports/images/` and combine them into
+`reports/report.pdf`.
+
 ## Project Structure
 
 - `src/mental_health_proposal/` – Library code
