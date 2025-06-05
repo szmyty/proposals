@@ -22,8 +22,30 @@ poetry run python scripts/example_usage.py
 
 Replace the paths in `scripts/example_usage.py` with your own data sources.
 
+## Data Integration
+
+Sample raw data is located in the `data/raw/` directory. These CSV files are
+mock representations of the real datasets referenced in the proposal:
+
+- MHA State and County Data
+- CDC PLACES
+- SAMHSA Data
+- Kaggle Mental Health datasets
+- MODMA dataset
+
+To merge the datasets for analysis, run:
+
+```bash
+python scripts/preprocess_and_merge.py
+```
+
+This will create `data/processed/merged.csv`, which can be used for
+visualization and further exploration. Replace the sample files in `data/raw/`
+with the actual datasets once they have been downloaded.
+
 ## Project Structure
 
 - `src/mental_health_proposal/` – Library code
 - `scripts/` – Example scripts
+- `data/` – Raw and processed data
 - `drafts/` – Original proposal documents
