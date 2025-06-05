@@ -82,6 +82,12 @@ Key research underscores mental health urgency:
 
 ---
 
+## Potential Future Extensions
+
+- **Medication Tracking & Analysis:** In a later phase, client accounts could optionally link obfuscated medication data. Continuous streams of symptom reports and biometric signals could train the system to determine which medications correlate with positive or negative outcomes. This demonstrates how additional data sources and AI-driven learning might further enhance clinician insights while safeguarding privacy.
+
+---
+
 ## Naming Considerations
 
 | Acronym/Name | Expanded Meaning | Tone |
