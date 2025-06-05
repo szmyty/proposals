@@ -1,0 +1,7 @@
+version: '3'
+
+tasks:
+  gitleaks:
+    desc: Run gitleaks with repo config
+    cmds:
+      - gitleaks detect --config .gitleaks.toml
