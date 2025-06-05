@@ -1,0 +1,4 @@
+FIPS,depression_rate,obesity_rate,treatment_centers,mental_health_score,service_utilization
+01001,15.2,25.1,2,75,0.65
+01003,13.8,28.4,1,80,0.70
+01005,16.1,30.2,0,70,0.60
