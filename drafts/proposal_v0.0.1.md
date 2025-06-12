@@ -18,4 +18,4 @@ Through data-driven insights, responsible AI, and a feedback-rich interface, thi
 - **Therapists** to gain deeper awareness and prepare more effectively.
 - **Communities** to understand the broader context of suffering and healing.
 
-**[THERAPY.png]**
+![High-Level System Overview](./THERAPY.png)
