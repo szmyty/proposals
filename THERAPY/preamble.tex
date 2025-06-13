@@ -1,0 +1,62 @@
+% ===============================
+% THERAPY Proposal — Preamble
+% ===============================
+
+% --- Font & Input ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}            % Clean, scalable font
+\usepackage[english]{babel}
+\usepackage{microtype}          % Better typography
+
+% --- Layout & Spacing ---
+\usepackage[a4paper, margin=1in]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage{parskip}            % Paragraph spacing
+
+% --- Header/Footer ---
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{THERAPY Proposal}
+\rhead{Alan Szmyt}
+\rfoot{\thepage}
+
+% --- Section Formatting ---
+\usepackage{titlesec}
+\titleformat{\section}{\large\bfseries}{\thesection.}{0.5em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{0.5em}{}
+
+% --- Colors & Hyperlinks ---
+\usepackage{xcolor}
+\definecolor{linkblue}{RGB}{0, 90, 150}
+\usepackage[
+    colorlinks=true,
+    linkcolor=linkblue,
+    urlcolor=linkblue,
+    citecolor=linkblue
+]{hyperref}
+
+% --- Lists & Enums ---
+\usepackage{enumitem}
+
+% --- Graphics & Figures ---
+\usepackage{graphicx}
+\graphicspath{{images/}}        % Image path relative to proposal.tex
+\usepackage{caption}
+\captionsetup{font=small, labelfont=bf}
+
+% --- Math (if needed) ---
+\usepackage{amsmath, amssymb}
+
+% --- Quotes ---
+\usepackage{csquotes}
+
+% --- Bibliography ---
+\usepackage[
+    backend=biber,
+    style=apa,
+    sorting=nyt
+]{biblatex}
+\addbibresource{bibliography.bib}
