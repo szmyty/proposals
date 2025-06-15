@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  13 JUN 2025 12:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  15 JUN 2025 12:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -914,7 +914,7 @@ Package biblatex Info: ... file 'proposal.bbl' found.
 Package biblatex Info: Reference section=0 on input line 8.
 Package biblatex Info: Reference segment=0 on input line 8.
  (./sections/title.tex
-<assets/images/THERAPY.png, id=4, 1541.76pt x 1027.84pt>
+<assets/images/THERAPY.png, id=8, 1541.76pt x 1027.84pt>
 File: assets/images/THERAPY.png Graphic file (type png)
 <use assets/images/THERAPY.png>
 Package pdftex.def Info: assets/images/THERAPY.png  used on input line 17.
@@ -934,37 +934,129 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[2])
+[2]) (./sections/sponsorship.tex
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 6
+.
 
-LaTeX Warning: Empty bibliography on input line 38.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Overfull \hbox (12.08093pt too wide) in paragraph at lines 15--16
+[][][]\T1/lmr/bx/n/10.95 (-20) SAMHSA (Sub-stance Abuse and Men-tal Health Ser-
+vices Ad-min-is-tra-tion)[][][]\T1/lmr/m/n/10.95 (-20) SAMHSA,
+ []
 
-(build/proposal.aux)
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.37 \end{itemize}
+                   [1{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-
+ts1.enc}])
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
+8.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
+8.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+38.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+38.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 38.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 38.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 38.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
+
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
+
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Overfull \hbox (14.93066pt too wide) in paragraph at lines 39--39
+[][]\T1/lmr/m/n/10.95 (-20) for Sui-cide Pre-ven-tion, N. A. A. (2025). Strate-
+gic part-ner-ships and re-search. [][]$https : / / theactionalliance .
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.40 \end{document}
+                    [2] (build/proposal.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `proposal.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: A299E98A53FCC1A4BFCE773FC063A329;247.
 Package logreq Info: Writing requests to 'proposal.run.xml'.
 \openout1 = `proposal.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24453 strings out of 473190
- 427255 string characters out of 5715801
- 1414264 words of memory out of 5000000
- 47433 multiletter control sequences out of 15000+600000
- 577185 words of font info for 53 fonts, out of 8000000 for 9000
+ 24990 strings out of 473190
+ 439031 string characters out of 5715801
+ 1421733 words of memory out of 5000000
+ 47868 multiletter control sequences out of 15000+600000
+ 597812 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,11n,84p,1197b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/lo
 cal/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texliv
 e/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2025/texm
 f-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on build/proposal.pdf (2 pages, 2525929 bytes).
+Output written on build/proposal.pdf (4 pages, 2544614 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
- 10246 words of extra memory for PDF output out of 12000 (max. 10000000)
+ 83 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
+ 22542 words of extra memory for PDF output out of 24883 (max. 10000000)
 
