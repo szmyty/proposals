@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber build/proposal"] 1750062415.71724 "build/proposal.bcf" "build/proposal.bbl" "build/proposal" 1750062422.91295 0
+["biber build/proposal"] 1750062415.71724 "build/proposal.bcf" "build/proposal.bbl" "build/proposal" 1750062686.57334 0
   "bibliography.bib" 1750062411.27628 1659 ca9e469ba5e1799065257c42cb22cb5a ""
-  "build/proposal.bcf" 1750062422.78128 133435 6966b6f0991c4ded92a4b7f57678aca1 "pdflatex"
+  "build/proposal.bcf" 1750062686.44739 133435 6966b6f0991c4ded92a4b7f57678aca1 "pdflatex"
   (generated)
   "build/proposal.bbl"
   "build/proposal.blg"
   (rewritten before read)
-["pdflatex"] 1750062421.51024 "proposal.tex" "build/proposal.pdf" "proposal" 1750062422.91328 0
+["pdflatex"] 1750062685.25756 "proposal.tex" "build/proposal.pdf" "proposal" 1750062686.57361 0
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1741388039 2375 baa924870cfb487815765f9094cf3728 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1741388039 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -272,13 +272,15 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346141 1288109d02d1c772df65535881471649 ""
   "assets/images/THERAPY.png" 1749830830.81354 2488185 8d7e4432562b01a2bc85103753f39077 ""
   "assets/images/logo.png" 1750061864.11599 1611 44cf942dedbe1611e8c4a62479f1fc5d ""
-  "build/proposal.aux" 1750062422.77872 851 898c050dcf8154764dfdc5e1baad8284 "pdflatex"
+  "build/proposal.aux" 1750062686.44511 851 c210ae31c67587f41c0c36cf0efe5892 "pdflatex"
   "build/proposal.bbl" 1750062418.58053 6518 428221f7356f1cfe53bf1643ef486d79 "biber build/proposal"
-  "build/proposal.out" 1750062422.45891 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "build/proposal.run.xml" 1750062422.7821 2457 3e38041b59a50c7b86a7b39ecaa835a3 "pdflatex"
+  "build/proposal.out" 1750062686.1429 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "build/proposal.run.xml" 1750062686.44813 2457 3e38041b59a50c7b86a7b39ecaa835a3 "pdflatex"
   "preamble.tex" 1750061891.81235 2130 c765cc1acd44df79893c5c313b192be2 ""
-  "proposal.tex" 1750062003.06418 1025 3e0ab5209ca70b3ad24ff994a5c195bc ""
+  "proposal.tex" 1750062610.14363 1021 2b1051df5ef7e5791114f3be870e19b8 ""
   "sections/executive_summary.tex" 1750062401.94922 1786 a55af1a3d4c3ad7ef9328320d89ee688 ""
+  "sections/problem_statement.tex" 1750062548.73825 1877 74c002a9c7d9a0c863932c3c17f1062e ""
+  "sections/solution.tex" 1750062677.27084 2250 384668629e1f7298f21802a335ce7fa6 ""
   "sections/title.tex" 1750062052.4793 1109 65e059441b34926966a5769ca939fe1f ""
   (generated)
   "build/proposal.aux"

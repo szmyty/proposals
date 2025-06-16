@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  16 JUN 2025 04:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  16 JUN 2025 04:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1687,23 +1687,36 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 8
 (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/lm/ts1lmr.f
 d
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-))
+)) (./sections/problem_statement.tex
 
-<assets/images/logo.png, id=60, 513.92pt x 128.48pt>
+<assets/images/logo.png, id=58, 513.92pt x 128.48pt>
 File: assets/images/logo.png Graphic file (type png)
 <use assets/images/logo.png>
-Package pdftex.def Info: assets/images/logo.png  used on input line 46.
+Package pdftex.def Info: assets/images/logo.png  used on input line 12.
 (pdftex.def)             Requested size: 39.99306pt x 10.0pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.46 \end{document}
-                    [1
+l.12   \item E
+              thical and privacy concerns around digital tracking of mental ...
+[1
 
 {/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/lm/lm
--ts1.enc} <./assets/images/logo.png>] (build/proposal.aux)
+-ts1.enc} <./assets/images/logo.png>]) (./sections/solution.tex
+
+File: assets/images/logo.png Graphic file (type png)
+<use assets/images/logo.png>
+Package pdftex.def Info: assets/images/logo.png  used on input line 24.
+(pdftex.def)             Requested size: 39.99306pt x 10.0pt.
+[2])
+
+File: assets/images/logo.png Graphic file (type png)
+<use assets/images/logo.png>
+Package pdftex.def Info: assets/images/logo.png  used on input line 46.
+(pdftex.def)             Requested size: 39.99306pt x 10.0pt.
+[3] (build/proposal.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1715,11 +1728,11 @@ Package logreq Info: Writing requests to 'proposal.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46248 strings out of 473190
- 972577 string characters out of 5704335
- 1907683 words of memory out of 5000000
- 68742 multiletter control sequences out of 15000+600000
- 631656 words of font info for 141 fonts, out of 8000000 for 9000
+ 46292 strings out of 473190
+ 973390 string characters out of 5704335
+ 1909683 words of memory out of 5000000
+ 68757 multiletter control sequences out of 15000+600000
+ 632414 words of font info for 150 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  103i,15n,104p,1197b,5052s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/
@@ -1729,10 +1742,10 @@ dist/fonts/type1/public/lm/lmr10.pfb></opt/homebrew/Cellar/texlive/20250308_1/s
 hare/texmf-dist/fonts/type1/public/lm/lmr8.pfb></opt/homebrew/Cellar/texlive/20
 250308_1/share/texmf-dist/fonts/type1/public/lm/lmr9.pfb></opt/homebrew/Cellar/
 texlive/20250308_1/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on build/proposal.pdf (2 pages, 2594457 bytes).
+Output written on build/proposal.pdf (4 pages, 2602131 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
- 61 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
+ 122 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
  43175 words of extra memory for PDF output out of 51595 (max. 10000000)
 
