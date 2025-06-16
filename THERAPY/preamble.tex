@@ -2,18 +2,22 @@
 % THERAPY Proposal — Preamble
 % ===============================
 
-% --- Font & Input ---
+% --- Encoding & Language ---
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage{lmodern}            % Clean, scalable font
 \usepackage[english]{babel}
-\usepackage{microtype}          % Better typography
+\usepackage{csquotes}
+
+% --- Typography ---
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{relsize}
 
 % --- Layout & Spacing ---
 \usepackage[a4paper, margin=1in]{geometry}
 \usepackage{setspace}
 \onehalfspacing
-\usepackage{parskip}            % Paragraph spacing
+\usepackage{parskip}
 
 % --- Header/Footer ---
 \usepackage{fancyhdr}
@@ -23,35 +27,39 @@
 \rhead{Alan Szmyt}
 \rfoot{\thepage}
 
-% --- Section Formatting ---
+% --- Section Titles ---
 \usepackage{titlesec}
 \titleformat{\section}{\large\bfseries}{\thesection.}{0.5em}{}
 \titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{0.5em}{}
 
-% --- Colors & Hyperlinks ---
+% --- Colors & Links ---
 \usepackage{xcolor}
 \definecolor{linkblue}{RGB}{0, 90, 150}
 \usepackage[
     colorlinks=true,
     linkcolor=linkblue,
     urlcolor=linkblue,
-    citecolor=linkblue
+    citecolor=linkblue,
+    pdfusetitle
 ]{hyperref}
 
-% --- Lists & Enums ---
+% --- Lists ---
 \usepackage{enumitem}
+\setlist{nosep, left=0pt, labelsep=0.5em}
 
-% --- Graphics & Figures ---
+% --- Graphics ---
 \usepackage{graphicx}
-\graphicspath{{assets/images/}}       % Image path relative to proposal.tex
+\graphicspath{{assets/images/}}
 \usepackage{caption}
-\captionsetup{font=small, labelfont=bf}
+\captionsetup{font=small, labelfont=bf, format=hang}
 
-% --- Math (if needed) ---
-\usepackage{amsmath, amssymb}
-
-% --- Quotes ---
-\usepackage{csquotes}
+% --- Math ---
+\usepackage{amsmath, amssymb, mathtools}
+\usepackage{bm}
+\usepackage{siunitx}
+\sisetup{detect-all}
+\numberwithin{equation}{section}
+\newcommand{\inline}[1]{\ensuremath{#1}}
 
 % --- Bibliography ---
 \usepackage[
@@ -60,3 +68,7 @@
     sorting=nyt
 ]{biblatex}
 \addbibresource{bibliography.bib}
+
+% --- Title Page Enhancements ---
+\usepackage{titling}     % Custom title layout
+\usepackage{framed}      % Border box
