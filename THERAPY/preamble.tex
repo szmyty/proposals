@@ -23,9 +23,19 @@
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
-\lhead{THERAPY Proposal}
-\rhead{Alan Szmyt}
-\rfoot{\thepage}
+
+% Optional: remove header if not needed
+\lhead{} 
+\rhead{}
+
+% Left footer: page number
+\lfoot{\thepage}
+
+% Right footer: Logo + info
+\rfoot{
+  \raisebox{-0.2\height}{\includegraphics[height=10pt]{logo.png}}\\
+  \scriptsize Alan Szmyt \textbullet{} Company LLC \textbullet{} \href{mailto:email@email.com}{email@email.com}
+}
 
 % --- Section Titles ---
 \usepackage{titlesec}
@@ -71,4 +81,7 @@
 
 % --- Title Page Enhancements ---
 \usepackage{titling}     % Custom title layout
-\usepackage{framed}      % Border box
+\usepackage[most]{tcolorbox} % Framed boxes
+
+\definecolor{lightpink}{RGB}{255, 230, 235}
+\newtcolorbox{framed}{colback=lightpink!10, colframe=lightpink!80!black, boxrule=0.5mm, arc=4mm, auto outer arc, left=1em, right=1em, top=1em, bottom=1em}

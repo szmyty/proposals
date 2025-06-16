@@ -16,5 +16,154 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{who_substance_2022}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f260b0b62c4860e05fa78e1ccb26d05e}{%
+           family={Ferrari},
+           familyi={F\bibinitperiod},
+           given={A.\bibnamedelimi J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b1156aaf4daa9539907f8bce29ef0989}
+      \strng{fullhash}{b1156aaf4daa9539907f8bce29ef0989}
+      \strng{fullhashraw}{b1156aaf4daa9539907f8bce29ef0989}
+      \strng{bibnamehash}{b1156aaf4daa9539907f8bce29ef0989}
+      \strng{authorbibnamehash}{b1156aaf4daa9539907f8bce29ef0989}
+      \strng{authornamehash}{b1156aaf4daa9539907f8bce29ef0989}
+      \strng{authorfullhash}{b1156aaf4daa9539907f8bce29ef0989}
+      \strng{authorfullhashraw}{b1156aaf4daa9539907f8bce29ef0989}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Lancet Psychiatry}
+      \field{number}{2}
+      \field{title}{The epidemiology of substance use disorders in mental health}
+      \field{volume}{9}
+      \field{year}{2022}
+      \field{pages}{123\bibrangedash 134}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/S2215-0366(21)00001-3
+      \endverb
+    \endentry
+    \entry{who_suicide_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8179b1fdebe9235e54501d2878c47e1b}{%
+           family={Organization},
+           familyi={O\bibinitperiod},
+           given={World\bibnamedelima Health},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{fullhash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{fullhashraw}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{bibnamehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{authorbibnamehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{authornamehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{authorfullhash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{authorfullhashraw}{8179b1fdebe9235e54501d2878c47e1b}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{Suicide Fact Sheet}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.who.int/news-room/fact-sheets/detail/suicide
+      \endverb
+      \verb{url}
+      \verb https://www.who.int/news-room/fact-sheets/detail/suicide
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{who_substance_2022}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f260b0b62c4860e05fa78e1ccb26d05e}{%
+           family={Ferrari},
+           familyi={F\bibinitperiod},
+           given={A.\bibnamedelimi J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b1156aaf4daa9539907f8bce29ef0989}
+      \strng{fullhash}{b1156aaf4daa9539907f8bce29ef0989}
+      \strng{fullhashraw}{b1156aaf4daa9539907f8bce29ef0989}
+      \strng{bibnamehash}{b1156aaf4daa9539907f8bce29ef0989}
+      \strng{authorbibnamehash}{b1156aaf4daa9539907f8bce29ef0989}
+      \strng{authornamehash}{b1156aaf4daa9539907f8bce29ef0989}
+      \strng{authorfullhash}{b1156aaf4daa9539907f8bce29ef0989}
+      \strng{authorfullhashraw}{b1156aaf4daa9539907f8bce29ef0989}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Lancet Psychiatry}
+      \field{number}{2}
+      \field{title}{The epidemiology of substance use disorders in mental health}
+      \field{volume}{9}
+      \field{year}{2022}
+      \field{pages}{123\bibrangedash 134}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/S2215-0366(21)00001-3
+      \endverb
+    \endentry
+    \entry{who_suicide_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8179b1fdebe9235e54501d2878c47e1b}{%
+           family={Organization},
+           familyi={O\bibinitperiod},
+           given={World\bibnamedelima Health},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{fullhash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{fullhashraw}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{bibnamehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{authorbibnamehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{authornamehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{authorfullhash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{authorfullhashraw}{8179b1fdebe9235e54501d2878c47e1b}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{Suicide Fact Sheet}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.who.int/news-room/fact-sheets/detail/suicide
+      \endverb
+      \verb{url}
+      \verb https://www.who.int/news-room/fact-sheets/detail/suicide
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

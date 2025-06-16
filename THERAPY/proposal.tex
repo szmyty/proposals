@@ -10,8 +10,14 @@
 % --- Title Page ---
 \input{sections/title}
 
+\clearpage
+\pagenumbering{arabic}   % Start normal page numbering
+\setcounter{page}{1}     % Make the first post-title page be page 1
+
+\pagestyle{fancy}        % Re-enable fancy footer/header after title
+
 % --- Executive Summary ---
-% \input{sections/executive_summary}
+\input{sections/executive_summary}
 
 % --- Problem Statement ---
 % \input{sections/problem_statement}
