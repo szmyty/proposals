@@ -1,0 +1,61 @@
+\section*{Development Roadmap}
+
+The development of the \textbf{THERAPY} system is envisioned as an iterative, collaborative process that prioritizes ethical design, pilot feedback, and real-world clinical integration. Below is an approximate roadmap based on current assumptions. Timelines are subject to refinement as partnerships and resourcing evolve.
+
+\subsection*{Phase 1: Prototype (Months 0–3)}
+\begin{itemize}
+  \item Build core journaling, mood tracking, and AI summarization pipeline
+  \item Design early therapist dashboard with mock data
+  \item Consult with clinical advisors on data ethics and risk signals
+\end{itemize}
+
+\subsection*{Phase 2: Pilot \& Evaluation (Months 4–8)}
+\begin{itemize}
+  \item Deploy app with 3–5 therapist-client pairs
+  \item Integrate opt-in consent flows and privacy guardrails
+  \item Collect usage data and feedback on therapist usability
+\end{itemize}
+
+\subsection*{Phase 3: Expansion (Months 9–15)}
+\begin{itemize}
+  \item Extend backend for analytics and research use
+  \item Explore integrations with open EHR formats
+  \item Prepare academic paper or policy brief on pilot results
+\end{itemize}
+
+\subsection*{Phase 4: Open Release (Months 16+)}
+\begin{itemize}
+  \item Package system for public use with full documentation
+  \item Open-source modules for adaptation in clinics, nonprofits, and academia
+  \item Continue research and community-led development
+\end{itemize}
+
+\bigskip
+\noindent\textbf{Timeline Overview:}
+
+\begin{center}
+\begin{tikzpicture}[
+  x=4cm, y=1.4cm,
+  >=Stealth,
+  font=\small,
+  phase/.style={
+    draw, rounded corners=3pt,
+    fill=linkblue!10,
+    minimum width=3.6cm,
+    minimum height=1.2cm,
+    align=center
+  }
+]
+% Phases
+\node[phase] (p0) at (0,0) {Prototype\\Months 0--3};
+\node[phase] (p1) at (1,0) {Pilot \& Eval\\Months 4--8};
+\node[phase] (p2) at (2,0) {Expansion\\Months 9--15};
+\node[phase] (p3) at (3,0) {Open Release\\Months 16+};
+
+% Arrows
+\draw[->, thick] (p0.east) -- (p1.west);
+\draw[->, thick] (p1.east) -- (p2.west);
+\draw[->, thick] (p2.east) -- (p3.west);
+
+\end{tikzpicture}
+\end{center}
