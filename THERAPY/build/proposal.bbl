@@ -19,6 +19,45 @@
 
 \refsection{0}
   \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{samhsa_nsumhss_2023}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fa105db6fa31a0bdf0e5a687cc1a9e67}{%
+           family={Abuse},
+           familyi={A\bibinitperiod},
+           given={Substance},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e6deacb7dc0d663bf073e42b230d879}{%
+           family={(SAMHSA)},
+           familyi={(\bibinitperiod},
+           given={Mental\bibnamedelimb Health\bibnamedelimb Services\bibnamedelima Administration},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{355dca1b8eb3aae2e1050367c51541e3}
+      \strng{fullhash}{355dca1b8eb3aae2e1050367c51541e3}
+      \strng{fullhashraw}{355dca1b8eb3aae2e1050367c51541e3}
+      \strng{bibnamehash}{355dca1b8eb3aae2e1050367c51541e3}
+      \strng{authorbibnamehash}{355dca1b8eb3aae2e1050367c51541e3}
+      \strng{authornamehash}{355dca1b8eb3aae2e1050367c51541e3}
+      \strng{authorfullhash}{355dca1b8eb3aae2e1050367c51541e3}
+      \strng{authorfullhashraw}{355dca1b8eb3aae2e1050367c51541e3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NSUMHSS: National Substance Use and Mental Health Services Survey}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles
+      \endverb
+      \verb{url}
+      \verb https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles
+      \endverb
+    \endentry
     \entry{who_substance_2022}{article}{}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -54,6 +93,41 @@
       \range{pages}{12}
       \verb{doi}
       \verb 10.1016/S2215-0366(21)00001-3
+      \endverb
+    \endentry
+    \entry{cdc_suicide_2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2688477804640ca63b82b06d16dd5e3a}{%
+           family={Health\bibnamedelima Statistics},
+           familyi={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={CDC\bibnamedelimb National\bibnamedelima Center},
+           giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0,
+           prefix={for},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \strng{namehash}{2688477804640ca63b82b06d16dd5e3a}
+      \strng{fullhash}{2688477804640ca63b82b06d16dd5e3a}
+      \strng{fullhashraw}{2688477804640ca63b82b06d16dd5e3a}
+      \strng{bibnamehash}{2688477804640ca63b82b06d16dd5e3a}
+      \strng{authorbibnamehash}{2688477804640ca63b82b06d16dd5e3a}
+      \strng{authornamehash}{2688477804640ca63b82b06d16dd5e3a}
+      \strng{authorfullhash}{2688477804640ca63b82b06d16dd5e3a}
+      \strng{authorfullhashraw}{2688477804640ca63b82b06d16dd5e3a}
+      \field{sortinit}{f}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Suicide Mortality Data — State-Level}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.cdc.gov/nchs/pressroom/sosmap/suicide-mortality/suicide.htm
+      \endverb
+      \verb{url}
+      \verb https://www.cdc.gov/nchs/pressroom/sosmap/suicide-mortality/suicide.htm
       \endverb
     \endentry
     \entry{action_alliance}{misc}{}{}
@@ -295,10 +369,115 @@
       \endverb
       \verb{url}
       \verb https://www.samhsa.gov/grants
+      \endverb
+    \endentry
+    \entry{cdc_overdose_2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbb54e387ca55523ef3848a70993effd}{%
+           family={System},
+           familyi={S\bibinitperiod},
+           given={CDC\bibnamedelimb National\bibnamedelimb Vital\bibnamedelima Statistics},
+           giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cbb54e387ca55523ef3848a70993effd}
+      \strng{fullhash}{cbb54e387ca55523ef3848a70993effd}
+      \strng{fullhashraw}{cbb54e387ca55523ef3848a70993effd}
+      \strng{bibnamehash}{cbb54e387ca55523ef3848a70993effd}
+      \strng{authorbibnamehash}{cbb54e387ca55523ef3848a70993effd}
+      \strng{authornamehash}{cbb54e387ca55523ef3848a70993effd}
+      \strng{authorfullhash}{cbb54e387ca55523ef3848a70993effd}
+      \strng{authorfullhashraw}{cbb54e387ca55523ef3848a70993effd}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Provisional Drug Overdose Death Counts}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm
+      \endverb
+      \verb{url}
+      \verb https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm
+      \endverb
+    \endentry
+    \entry{kaggle_suicide_1985_2016}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a693b20c854fea84bf860c1780fcd416}{%
+           family={Yates},
+           familyi={Y\bibinitperiod},
+           given={Russell},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a693b20c854fea84bf860c1780fcd416}
+      \strng{fullhash}{a693b20c854fea84bf860c1780fcd416}
+      \strng{fullhashraw}{a693b20c854fea84bf860c1780fcd416}
+      \strng{bibnamehash}{a693b20c854fea84bf860c1780fcd416}
+      \strng{authorbibnamehash}{a693b20c854fea84bf860c1780fcd416}
+      \strng{authornamehash}{a693b20c854fea84bf860c1780fcd416}
+      \strng{authorfullhash}{a693b20c854fea84bf860c1780fcd416}
+      \strng{authorfullhashraw}{a693b20c854fea84bf860c1780fcd416}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Suicide Rates Overview 1985 to 2016}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016
+      \endverb
+      \verb{url}
+      \verb https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016
       \endverb
     \endentry
   \enddatalist
   \datalist[entry]{nyt/global//global/global/global}
+    \entry{samhsa_nsumhss_2023}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fa105db6fa31a0bdf0e5a687cc1a9e67}{%
+           family={Abuse},
+           familyi={A\bibinitperiod},
+           given={Substance},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e6deacb7dc0d663bf073e42b230d879}{%
+           family={(SAMHSA)},
+           familyi={(\bibinitperiod},
+           given={Mental\bibnamedelimb Health\bibnamedelimb Services\bibnamedelima Administration},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{355dca1b8eb3aae2e1050367c51541e3}
+      \strng{fullhash}{355dca1b8eb3aae2e1050367c51541e3}
+      \strng{fullhashraw}{355dca1b8eb3aae2e1050367c51541e3}
+      \strng{bibnamehash}{355dca1b8eb3aae2e1050367c51541e3}
+      \strng{authorbibnamehash}{355dca1b8eb3aae2e1050367c51541e3}
+      \strng{authornamehash}{355dca1b8eb3aae2e1050367c51541e3}
+      \strng{authorfullhash}{355dca1b8eb3aae2e1050367c51541e3}
+      \strng{authorfullhashraw}{355dca1b8eb3aae2e1050367c51541e3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NSUMHSS: National Substance Use and Mental Health Services Survey}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles
+      \endverb
+      \verb{url}
+      \verb https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles
+      \endverb
+    \endentry
     \entry{who_substance_2022}{article}{}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -334,6 +513,41 @@
       \range{pages}{12}
       \verb{doi}
       \verb 10.1016/S2215-0366(21)00001-3
+      \endverb
+    \endentry
+    \entry{cdc_suicide_2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2688477804640ca63b82b06d16dd5e3a}{%
+           family={Health\bibnamedelima Statistics},
+           familyi={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={CDC\bibnamedelimb National\bibnamedelima Center},
+           giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0,
+           prefix={for},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \strng{namehash}{2688477804640ca63b82b06d16dd5e3a}
+      \strng{fullhash}{2688477804640ca63b82b06d16dd5e3a}
+      \strng{fullhashraw}{2688477804640ca63b82b06d16dd5e3a}
+      \strng{bibnamehash}{2688477804640ca63b82b06d16dd5e3a}
+      \strng{authorbibnamehash}{2688477804640ca63b82b06d16dd5e3a}
+      \strng{authornamehash}{2688477804640ca63b82b06d16dd5e3a}
+      \strng{authorfullhash}{2688477804640ca63b82b06d16dd5e3a}
+      \strng{authorfullhashraw}{2688477804640ca63b82b06d16dd5e3a}
+      \field{sortinit}{f}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Suicide Mortality Data — State-Level}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.cdc.gov/nchs/pressroom/sosmap/suicide-mortality/suicide.htm
+      \endverb
+      \verb{url}
+      \verb https://www.cdc.gov/nchs/pressroom/sosmap/suicide-mortality/suicide.htm
       \endverb
     \endentry
     \entry{action_alliance}{misc}{}{}
@@ -575,6 +789,72 @@
       \endverb
       \verb{url}
       \verb https://www.samhsa.gov/grants
+      \endverb
+    \endentry
+    \entry{cdc_overdose_2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbb54e387ca55523ef3848a70993effd}{%
+           family={System},
+           familyi={S\bibinitperiod},
+           given={CDC\bibnamedelimb National\bibnamedelimb Vital\bibnamedelima Statistics},
+           giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cbb54e387ca55523ef3848a70993effd}
+      \strng{fullhash}{cbb54e387ca55523ef3848a70993effd}
+      \strng{fullhashraw}{cbb54e387ca55523ef3848a70993effd}
+      \strng{bibnamehash}{cbb54e387ca55523ef3848a70993effd}
+      \strng{authorbibnamehash}{cbb54e387ca55523ef3848a70993effd}
+      \strng{authornamehash}{cbb54e387ca55523ef3848a70993effd}
+      \strng{authorfullhash}{cbb54e387ca55523ef3848a70993effd}
+      \strng{authorfullhashraw}{cbb54e387ca55523ef3848a70993effd}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Provisional Drug Overdose Death Counts}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm
+      \endverb
+      \verb{url}
+      \verb https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm
+      \endverb
+    \endentry
+    \entry{kaggle_suicide_1985_2016}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a693b20c854fea84bf860c1780fcd416}{%
+           family={Yates},
+           familyi={Y\bibinitperiod},
+           given={Russell},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a693b20c854fea84bf860c1780fcd416}
+      \strng{fullhash}{a693b20c854fea84bf860c1780fcd416}
+      \strng{fullhashraw}{a693b20c854fea84bf860c1780fcd416}
+      \strng{bibnamehash}{a693b20c854fea84bf860c1780fcd416}
+      \strng{authorbibnamehash}{a693b20c854fea84bf860c1780fcd416}
+      \strng{authornamehash}{a693b20c854fea84bf860c1780fcd416}
+      \strng{authorfullhash}{a693b20c854fea84bf860c1780fcd416}
+      \strng{authorfullhashraw}{a693b20c854fea84bf860c1780fcd416}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Suicide Rates Overview 1985 to 2016}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016
+      \endverb
+      \verb{url}
+      \verb https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016
       \endverb
     \endentry
   \enddatalist

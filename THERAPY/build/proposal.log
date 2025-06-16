@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  16 JUN 2025 05:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  16 JUN 2025 06:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1699,11 +1699,6 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 t-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 44.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 44.
-
 
 [1
 
@@ -1719,11 +1714,11 @@ d
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )) (./sections/problem_statement.tex
 
-<assets/images/logo.png, id=58, 513.92pt x 128.48pt>
+<assets/images/logo.png, id=57, 2509.375pt x 245.91875pt>
 File: assets/images/logo.png Graphic file (type png)
 <use assets/images/logo.png>
 Package pdftex.def Info: assets/images/logo.png  used on input line 12.
-(pdftex.def)             Requested size: 39.99306pt x 10.0pt.
+(pdftex.def)             Requested size: 102.00436pt x 10.0pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
@@ -1739,9 +1734,9 @@ l.12   \item E
 File: assets/images/logo.png Graphic file (type png)
 <use assets/images/logo.png>
 Package pdftex.def Info: assets/images/logo.png  used on input line 24.
-(pdftex.def)             Requested size: 39.99306pt x 10.0pt.
+(pdftex.def)             Requested size: 102.00436pt x 10.0pt.
 [2]) (./sections/features.tex
-<assets/images/features_client_mockup.png, id=78, 1027.84pt x 1541.76pt>
+<assets/images/features_client_mockup.png, id=77, 1027.84pt x 1541.76pt>
 File: assets/images/features_client_mockup.png Graphic file (type png)
 <use assets/images/features_client_mockup.png>
 Package pdftex.def Info: assets/images/features_client_mockup.png  used on inpu
@@ -1752,9 +1747,9 @@ t line 23.
 File: assets/images/logo.png Graphic file (type png)
 <use assets/images/logo.png>
 Package pdftex.def Info: assets/images/logo.png  used on input line 26.
-(pdftex.def)             Requested size: 39.99306pt x 10.0pt.
+(pdftex.def)             Requested size: 102.00436pt x 10.0pt.
 [3]
-<assets/images/features_therapist_dashboard.png, id=84, 1541.76pt x 1027.84pt>
+<assets/images/features_therapist_dashboard.png, id=83, 1541.76pt x 1027.84pt>
 File: assets/images/features_therapist_dashboard.png Graphic file (type png)
 <use assets/images/features_therapist_dashboard.png>
 Package pdftex.def Info: assets/images/features_therapist_dashboard.png  used o
@@ -1765,9 +1760,9 @@ n input line 41.
 File: assets/images/logo.png Graphic file (type png)
 <use assets/images/logo.png>
 Package pdftex.def Info: assets/images/logo.png  used on input line 44.
-(pdftex.def)             Requested size: 39.99306pt x 10.0pt.
+(pdftex.def)             Requested size: 102.00436pt x 10.0pt.
 [4 <./assets/images/features_client_mockup.png (PNG copy)>]
-<assets/images/features_infrastructure_flow.png, id=91, 1541.76pt x 1027.84pt>
+<assets/images/features_infrastructure_flow.png, id=90, 1541.76pt x 1027.84pt>
 File: assets/images/features_infrastructure_flow.png Graphic file (type png)
 <use assets/images/features_infrastructure_flow.png>
 Package pdftex.def Info: assets/images/features_infrastructure_flow.png  used o
@@ -1778,10 +1773,10 @@ n input line 58.
 File: assets/images/logo.png Graphic file (type png)
 <use assets/images/logo.png>
 Package pdftex.def Info: assets/images/logo.png  used on input line 30.
-(pdftex.def)             Requested size: 39.99306pt x 10.0pt.
+(pdftex.def)             Requested size: 102.00436pt x 10.0pt.
 [5 <./assets/images/features_therapist_dashboard.png (PNG copy)>]
 (./sections/user_journey.tex
-<assets/images/user_journey.png, id=98, 1156.32pt x 770.88pt>
+<assets/images/user_journey.png, id=97, 1156.32pt x 770.88pt>
 File: assets/images/user_journey.png Graphic file (type png)
 <use assets/images/user_journey.png>
 Package pdftex.def Info: assets/images/user_journey.png  used on input line 7.
@@ -1791,22 +1786,47 @@ Package pdftex.def Info: assets/images/user_journey.png  used on input line 7.
 File: assets/images/logo.png Graphic file (type png)
 <use assets/images/logo.png>
 Package pdftex.def Info: assets/images/logo.png  used on input line 4.
-(pdftex.def)             Requested size: 39.99306pt x 10.0pt.
+(pdftex.def)             Requested size: 102.00436pt x 10.0pt.
 [6 <./assets/images/features_infrastructure_flow.png (PNG copy)> <./assets/imag
 es/user_journey.png (PNG copy)>]
-<assets/images/us_suicide_trend.png, id=107, 1003.75pt x 602.25pt>
-File: assets/images/us_suicide_trend.png Graphic file (type png)
-<use assets/images/us_suicide_trend.png>
-Package pdftex.def Info: assets/images/us_suicide_trend.png  used on input line
- 11.
-(pdftex.def)             Requested size: 385.02547pt x 231.01692pt.
-) (./sections/sponsorship.tex
+<assets/images/correlation_matrix.png, id=110, 433.62pt x 289.08pt>
+File: assets/images/correlation_matrix.png Graphic file (type png)
+<use assets/images/correlation_matrix.png>
+Package pdftex.def Info: assets/images/correlation_matrix.png  used on input li
+ne 24.
+(pdftex.def)             Requested size: 385.02547pt x 256.69812pt.
+<assets/images/pairwise_kde_plot.png, id=111, 535.7616pt x 556.9608pt>
+File: assets/images/pairwise_kde_plot.png Graphic file (type png)
+<use assets/images/pairwise_kde_plot.png>
+Package pdftex.def Info: assets/images/pairwise_kde_plot.png  used on input lin
+e 30.
+(pdftex.def)             Requested size: 385.02547pt x 400.2636pt.
+
+
+File: assets/images/logo.png Graphic file (type png)
+<use assets/images/logo.png>
+Package pdftex.def Info: assets/images/logo.png  used on input line 33.
+(pdftex.def)             Requested size: 102.00436pt x 10.0pt.
+[7 <./assets/images/correlation_matrix.png>]
+<assets/images/lowess_suicide_vs_access.png, id=123, 433.62pt x 289.08pt>
+File: assets/images/lowess_suicide_vs_access.png Graphic file (type png)
+<use assets/images/lowess_suicide_vs_access.png>
+Package pdftex.def Info: assets/images/lowess_suicide_vs_access.png  used on in
+put line 36.
+(pdftex.def)             Requested size: 385.02547pt x 256.69812pt.
+
+
+File: assets/images/logo.png Graphic file (type png)
+<use assets/images/logo.png>
+Package pdftex.def Info: assets/images/logo.png  used on input line 39.
+(pdftex.def)             Requested size: 102.00436pt x 10.0pt.
+[8 <./assets/images/pairwise_kde_plot.png>]) (./sections/sponsorship.tex
 
 File: assets/images/logo.png Graphic file (type png)
 <use assets/images/logo.png>
 Package pdftex.def Info: assets/images/logo.png  used on input line 17.
-(pdftex.def)             Requested size: 39.99306pt x 10.0pt.
-[7 <./assets/images/us_suicide_trend.png>]
+(pdftex.def)             Requested size: 102.00436pt x 10.0pt.
+[9 <./assets/images/lowess_suicide_vs_access.png>]
 Overfull \hbox (2.87103pt too wide) in paragraph at lines 17--18
 [][][]\T1/lmr/bx/n/10.95 (-20) SAMHSA (Sub-stance Abuse and Men-tal Health Ser-
 vices Ad-min-is-tra-tion)[][]\T1/lmr/m/n/10.95 (-20) ([]SAMHSA,
@@ -1817,14 +1837,14 @@ vices Ad-min-is-tra-tion)[][]\T1/lmr/m/n/10.95 (-20) ([]SAMHSA,
 File: assets/images/logo.png Graphic file (type png)
 <use assets/images/logo.png>
 Package pdftex.def Info: assets/images/logo.png  used on input line 10.
-(pdftex.def)             Requested size: 39.99306pt x 10.0pt.
-[8])
+(pdftex.def)             Requested size: 102.00436pt x 10.0pt.
+[10])
 
 File: assets/images/logo.png Graphic file (type png)
 <use assets/images/logo.png>
 Package pdftex.def Info: assets/images/logo.png  used on input line 44.
-(pdftex.def)             Requested size: 39.99306pt x 10.0pt.
-[9]
+(pdftex.def)             Requested size: 102.00436pt x 10.0pt.
+[11]
 Overfull \hbox (14.93066pt too wide) in paragraph at lines 46--46
 [][]\T1/lmr/m/n/10.95 (-20) for Sui-cide Pre-ven-tion, N. A. A. (2025). Strate-
 gic part-ner-ships and re-search. [][]$https : / / theactionalliance .
@@ -1835,8 +1855,8 @@ gic part-ner-ships and re-search. [][]$https : / / theactionalliance .
 File: assets/images/logo.png Graphic file (type png)
 <use assets/images/logo.png>
 Package pdftex.def Info: assets/images/logo.png  used on input line 47.
-(pdftex.def)             Requested size: 39.99306pt x 10.0pt.
-[10
+(pdftex.def)             Requested size: 102.00436pt x 10.0pt.
+[12
 
 ] (build/proposal.aux)
  ***********
@@ -1850,11 +1870,11 @@ Package logreq Info: Writing requests to 'proposal.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47480 strings out of 473190
- 1003614 string characters out of 5704335
- 1944631 words of memory out of 5000000
- 69844 multiletter control sequences out of 15000+600000
- 640606 words of font info for 177 fonts, out of 8000000 for 9000
+ 47470 strings out of 473190
+ 1004713 string characters out of 5704335
+ 1946992 words of memory out of 5000000
+ 69850 multiletter control sequences out of 15000+600000
+ 624954 words of font info for 155 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,15n,99p,1197b,5052s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/
@@ -1864,10 +1884,10 @@ dist/fonts/type1/public/lm/lmr10.pfb></opt/homebrew/Cellar/texlive/20250308_1/s
 hare/texmf-dist/fonts/type1/public/lm/lmr8.pfb></opt/homebrew/Cellar/texlive/20
 250308_1/share/texmf-dist/fonts/type1/public/lm/lmr9.pfb></opt/homebrew/Cellar/
 texlive/20250308_1/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on build/proposal.pdf (11 pages, 8785286 bytes).
+Output written on build/proposal.pdf (13 pages, 9812516 bytes).
 PDF statistics:
- 201 PDF objects out of 1000 (max. 8388607)
- 139 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
- 47296 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 234 PDF objects out of 1000 (max. 8388607)
+ 166 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 39114 words of extra memory for PDF output out of 42996 (max. 10000000)
 
